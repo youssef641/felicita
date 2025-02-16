@@ -50,6 +50,8 @@
 	    loop:true,
 	    autoplay: true,
 	    margin:0,
+		touchDrag: false,
+        mouseDrag: false,
 	    animateOut: 'fadeOut',
 	    animateIn: 'fadeIn',
 	    nav:false,
