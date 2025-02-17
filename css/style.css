@@ -8526,7 +8526,8 @@ textarea.form-control {
 .ftco-menu {
   position: relative;
   width: 100%;
-  display: block; }
+  display: block;
+}
   .ftco-menu .nav-pills p {
     margin-bottom: 0; }
   .ftco-menu .nav-pills .nav-link {
